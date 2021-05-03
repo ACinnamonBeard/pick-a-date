@@ -11,7 +11,7 @@ h1 {
 	padding: 2vh 0vw 0.5vh 0vw;
 }
 
-#for-zucy {
+p.for-zucy {
   	color: #eae0c2;
 	font-size: 1.2vw;
 	text-align: center;
@@ -85,7 +85,7 @@ h1 {
   width: 80%; /* Could be more or less, depending on screen size */
 }
 
-#date-idea {
+p.date-idea {
 	color: #eae0c2;
 	font-size: 1.2vw;
 	text-align: center;
