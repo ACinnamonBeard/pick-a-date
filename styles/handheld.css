@@ -1,9 +1,9 @@
 body {
-	background-color: rgb(45, 46, 41);
+	background-color: #cbc7c3;
 }
 
 h1 {
-	color: #eae0c2;
+	color: #8d636b;
 	font-size: 10vw;
 	text-align: center;
 	width: 100%;
@@ -12,7 +12,7 @@ h1 {
 }
 
 p.for-zucy {
-  	color: #eae0c2;
+  	color: #38465f;
 	font-size: 4.5vw;
 	text-align: center;
 	width: 100%;
@@ -34,23 +34,19 @@ p.for-zucy {
 	padding: 4vh 10vw 4vh 10vw;
 
 	/* Background */
-	background-color: #eae0c2;
+	background-color: #cc9f90;
 
 	/* Border */
 	border-radius: 4.2vh;
-	border: 2px solid #333029;
-
-	/* Shadow */
-	box-shadow: 0px 1px 0px 0px #1c1b18;
+	border: 2px solid #38465f;
 
 	/* Text */
 	font-family: Arial;
 	font-size: 7vw;
 	font-weight: bold;
 	text-decoration: none;
-	text-shadow: 0px 1px 0px #ffffff;
 	text-align: center;
-	color: #505739;
+	color: #38465f;
 
 }
 
@@ -64,22 +60,22 @@ p.for-zucy {
   width: 100%; /* Full width */
   height: 100%; /* Full height */
   overflow: auto; /* Enable scroll if needed */
-  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: black; /* Fallback color */
   background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
 }
 
 /* Modal Content/Box */
 .modal-content {
-  background-color: black;
+  background-color: #cebebc;
   border-radius: 5px;
   margin: 50% auto; /* 15% from the top and centered */
   padding: 20px;
-  border: 1px solid #eae0c2;
+  border: 1px solid #38465f
   width: 80%; /* Could be more or less, depending on screen size */
 }
 
 p.date-idea {
-	color: #eae0c2;
+	color: #38465f;
 	font-size: 5vw;
 	text-align: center;
 	margin: 0 auto;
